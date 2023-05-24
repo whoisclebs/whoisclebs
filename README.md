@@ -18,10 +18,6 @@
  - <a href="https://github.com/OctobearHub">Octobear hub</a>
  - <a href="https://github.com/universi-me/">Universi.me</a>
 
-## Badges
-
-[![@clebsonf's Holopin board](https://holopin.me/clebsonf)](https://holopin.io/@clebsonf)
-
 ### :octopus: Octo-Ring
 
 <img width="64" height="65" src="https://octo-ring.com/static/img/octo.png" align="right" alt="">

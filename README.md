@@ -10,7 +10,7 @@
  
  `💬` Ask me about anything [here](https://github.com/whoisclebs/whoisclebs/discussions).
  
- `📫` How to reach me: **clebs.talks@gmail.com** and **https://whoisclebs.space**
+ `📫` How to reach me: **whoisclebs@proton.me** and **https://whoisclebs.space**
  
  `📎` Linkedin: **https://www.linkedin.com/in/whoisclebs/**
  

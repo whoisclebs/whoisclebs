@@ -20,22 +20,16 @@
 
 </div>
 
-## About
-<a  href="https://app.daily.dev/whoiscelbs"><img align="right" src="https://api.daily.dev/devcards/bdea729df3d7469bbda61c8bb1db781d.png?r=10m" width="400" alt="Clebson Augusto Fonseca's Dev Card"/></a>
+<a  href="https://app.daily.dev/whoiscelbs"><img align="right" src="https://api.daily.dev/devcards/bdea729df3d7469bbda61c8bb1db781d.png?r=10m" width="320" alt="Clebson Augusto Fonseca's Dev Card"/></a>
 
- `🔭` I'm currently working at <a href="https://www.phoebus.com.br/">@Phoebus</a>
- 
- `🌱` I’m currently learning Clean architecture, web3.0 and microsservices. 
- 
- `💬` Ask me about anything [here](https://github.com/whoisclebs/whoisclebs/discussions).
- 
- `📫` How to reach me: **whoisclebs@proton.me** and **https://whoisclebs.space**
- 
- `📎` Linkedin: **https://www.linkedin.com/in/whoisclebs/**
- 
- `👷` I am a maintainer on two open source communities: 
- - <a href="https://github.com/OctobearHub">Octobear hub</a>
- - <a href="https://github.com/universi-me/">Universi.me</a>
+- `🔭` I'm currently working at <a href="https://www.phoebus.com.br/">@Phoebus</a>
+- `🌱` I’m currently learning Clean architecture, web3.0 and microsservices. 
+- `💬` Ask me about anything [here](https://github.com/whoisclebs/whoisclebs/discussions).
+- `📫` How to reach me: **whoisclebs@proton.me** and **https://whoisclebs.space**
+- `📎` Linkedin: **https://www.linkedin.com/in/whoisclebs/**
+- `👷` I am a maintainer on two open source communities: 
+   - <a href="https://github.com/OctobearHub">Octobear hub</a>
+   - <a href="https://github.com/universi-me/">Universi.me</a>
 
 ### :octopus: Octo-Ring
 

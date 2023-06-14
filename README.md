@@ -1,8 +1,27 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">
 
-## About
+<div>
+  <img
+    src="https://img.shields.io/static/v1?style=flat-square&color=ffffff&&labelColor=ffffff&label=Follow:&message=%20"
+    alt="Follow"
+   />
+   <a href="https://www.linkedin.com/in/whoisclebs">
+      <img
+        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="Clebson linkedin"
+       />
+    </a>
+   <a href="https://twitter.com/whoisclebs">
+      <img
+        src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
+        alt="Clebson twitter"
+       />
+    </a>
 
-<img align="right"  width="250" src="https://user-images.githubusercontent.com/43012757/196444574-e876ac7d-ad07-4b50-8da2-a7cad21fe2be.png">
+</div>
+
+## About
+<a  href="https://app.daily.dev/whoiscelbs"><img align="right" src="https://api.daily.dev/devcards/bdea729df3d7469bbda61c8bb1db781d.png?r=10m" width="400" alt="Clebson Augusto Fonseca's Dev Card"/></a>
 
  `🔭` I'm currently working at <a href="https://www.phoebus.com.br/">@Phoebus</a>
  

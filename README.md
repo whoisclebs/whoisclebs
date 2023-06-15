@@ -20,7 +20,7 @@
 
 </div>
 
-<a  href="https://app.daily.dev/whoiscelbs"><img align="right" src="https://api.daily.dev/devcards/bdea729df3d7469bbda61c8bb1db781d.png?r=10m" width="320" alt="Clebson Augusto Fonseca's Dev Card"/></a>
+<a  href="https://app.daily.dev/whoiscelbs"><img align="right" src="./devcard.svg" width="320" alt="Clebson Augusto Fonseca's Dev Card"/></a>
 
 - `🔭` I'm currently working at <a href="https://www.phoebus.com.br/">@Phoebus</a>
 - `🌱` I’m currently learning Clean architecture, web3.0 and microsservices. 
